@@ -300,6 +300,10 @@ label, select, input {
         margin: 0 auto;
         grid-template-columns: auto auto;
     }
+    nav {
+        width: auto;
+        min-width: 40vw;
+    }
 
     form {
         width: auto;
